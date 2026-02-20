@@ -406,6 +406,27 @@ Exercise vigilance regarding copycat or coat-tailing sites that seek to exploit 
 
 ## 2026-02-20
 
+### 🆕 New Scripts
+
+  - Sure ([#12114](https://github.com/community-scripts/ProxmoxVE/pull/12114))
+- Calibre-Web ([#12115](https://github.com/community-scripts/ProxmoxVE/pull/12115))
+
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - Zammad: fix Elasticsearch JVM config and add daemon-reload [@MickLesk](https://github.com/MickLesk) ([#12125](https://github.com/community-scripts/ProxmoxVE/pull/12125))
+    - Huntarr: add build-essential for native pip dependencies [@MickLesk](https://github.com/MickLesk) ([#12126](https://github.com/community-scripts/ProxmoxVE/pull/12126))
+    - Dokploy: fix update function [@vhsdream](https://github.com/vhsdream) ([#12116](https://github.com/community-scripts/ProxmoxVE/pull/12116))
+
+  - #### 💥 Breaking Changes
+
+    - recyclarr: adjust paths for v8.0 breaking changes [@MickLesk](https://github.com/MickLesk) ([#12129](https://github.com/community-scripts/ProxmoxVE/pull/12129))
+
+  - #### 🔧 Refactor
+
+    - Planka: migrate data paths to new v2 directory structure [@MickLesk](https://github.com/MickLesk) ([#12128](https://github.com/community-scripts/ProxmoxVE/pull/12128))
+
 ### 🌐 Website
 
   - #### 📝 Script Information
